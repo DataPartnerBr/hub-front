@@ -1,6 +1,16 @@
 # hub-front
 
-> HUB APP
+> APP FRONT END FOR https://github.com/DataPartnerBr/hub-api. 
+
+
+Vue.js v2.
+Webpack.
+
+
+## CLONE PROJET
+git clone https://github.com/DataPartnerBr/hub-front.git
+
+cd hub-front
 
 ## Build Setup
 
